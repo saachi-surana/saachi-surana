@@ -10,7 +10,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/📍_Bellevue,_WA-4F46E5?style=flat-square" alt="location"/>
-<img src="https://img.shields.io/badge/🎓_UW_Class_of_2028-6D28D9?style=flat-square" alt="class"/>
+<img src="https://img.shields.io/badge/🎓_University_of_Washington-6D28D9?style=flat-square" alt="school"/>
 <img src="https://komarev.com/ghpvc/?username=saachi-surana&style=flat-square&color=7C3AED&label=Profile+Views" alt="views"/>
 
 </div>
@@ -20,7 +20,7 @@
 <!-- ══════════════════════════ ABOUT ══════════════════════════ -->
 ## <img src="https://img.shields.io/badge/-8B5CF6?style=flat-square" width="12"/> About <!-- accent: violet -->
 
-**Computer Science + Data Science** student at the **University of Washington** (Class of 2028). Right now I'm interning on the **Production Engineering** team at **CoreWeave** and doing undergraduate research in UW's **BioRobotics Lab**. On the side, I founded **The Future Is Female (TFIF)**, a STEM nonprofit, and I'm building Query. I'm drawn to backend systems, applied ML, and full-stack builds. The kind of things that feel alive when you use them.
+**Computer Science + Data Science** student at the **University of Washington**. Right now I'm interning on the **Production Engineering** team at **CoreWeave** and doing undergraduate research in UW's **BioRobotics Lab**. On the side, I founded **The Future Is Female (TFIF)**, a STEM nonprofit, and I'm building Query. I'm drawn to backend systems, applied ML, and full-stack builds. The kind of things that feel alive when you use them.
 
 > **Currently exploring:** RAG pipelines · on-device inference · systems design
 
