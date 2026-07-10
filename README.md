@@ -1,7 +1,7 @@
 <!-- ══════════════════════════ HEADER ══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:7c3aed,100:6b1f3d&height=210&section=header&text=Saachi%20Surana&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20%2B%20Data%20Science%20%40%20UW%20%20%7C%20%20Building%20things%20that%20feel%20alive&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,40:7c3aed,72:a4315a,100:b81e44&height=210&section=header&text=Saachi%20Surana&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20%2B%20Data%20Science%20%40%20UW%20%20%7C%20%20Building%20things%20that%20feel%20alive&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://saachi.dev">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=Backend+systems+%7C+Applied+ML+%7C+Full-stack;RAG+pipelines+%E2%80%A2+On-device+inference+%E2%80%A2+Systems+design;Building+things+that+feel+alive" alt="what I do"/>
@@ -27,34 +27,58 @@
 ---
 
 <!-- ══════════════════════════ TECH STACK ══════════════════════════ -->
-## <img src="https://img.shields.io/badge/-6B1F3D?style=flat-square" width="12"/> Tech Stack <!-- accent: wine -->
+## <img src="https://img.shields.io/badge/-B01E42?style=flat-square" width="12"/> Tech Stack <!-- accent: red-wine -->
 
 <div align="center">
 
+<sub><i>Hover any icon to see its name</i></sub>
+
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,postgres" alt="languages"/>
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" title="Python" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" title="Java" alt="Java"/>
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" title="JavaScript" alt="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" title="TypeScript" alt="TypeScript"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" title="C++" alt="C++"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" title="SQL" alt="SQL"/>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,htmx,tailwind" alt="frontend"/>
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" title="React" alt="React"/>
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" title="Next.js" alt="Next.js"/>
+<img src="https://skillicons.dev/icons?i=htmx" width="48" height="48" title="HTMX" alt="HTMX"/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" title="Tailwind CSS" alt="Tailwind CSS"/>
 
 **Backend &amp; Databases**
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,sqlite,supabase" alt="backend"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy" height="48" alt="sqlalchemy"/>
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" title="FastAPI" alt="FastAPI"/>
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" title="Node.js" alt="Node.js"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" title="PostgreSQL" alt="PostgreSQL"/>
+<img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" title="SQLite" alt="SQLite"/>
+<img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" title="Supabase" alt="Supabase"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy" width="48" height="48" title="SQLAlchemy" alt="SQLAlchemy"/>
 
 **AI / ML**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="ai/ml frameworks"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,huggingface,ollama,gemini" height="48" alt="langchain, hugging face, ollama, gemini"/>
-<img src="https://raw.githubusercontent.com/saachi-surana/saachi-surana/main/.github/assets/chroma.svg" height="48" width="48" alt="ChromaDB"/>
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" title="PyTorch" alt="PyTorch"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" title="TensorFlow.js" alt="TensorFlow.js"/>
+<img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" title="scikit-learn" alt="scikit-learn"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" width="48" height="48" title="LangChain" alt="LangChain"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" width="48" height="48" title="Hugging Face" alt="Hugging Face"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ollama" width="48" height="48" title="Ollama" alt="Ollama"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" width="48" height="48" title="Gemini API" alt="Gemini API"/>
+<img src="https://raw.githubusercontent.com/saachi-surana/saachi-surana/main/.github/assets/chroma.svg" width="48" height="48" title="ChromaDB" alt="ChromaDB"/>
 
 **Cloud, DevOps &amp; Tooling**
 
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,git" height="48" alt="kubernetes, docker, git"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=argocd" height="48" alt="argocd"/>
-<img src="https://skillicons.dev/icons?i=grafana,prometheus,aws,linux" height="48" alt="grafana, promql (prometheus), aws, linux"/>
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" title="Kubernetes" alt="Kubernetes"/>
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" title="Docker" alt="Docker"/>
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" title="Git" alt="Git"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=argocd" width="48" height="48" title="Argo CD" alt="Argo CD"/>
+<img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" title="Grafana" alt="Grafana"/>
+<img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" title="PromQL (Prometheus)" alt="PromQL"/>
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" title="AWS" alt="AWS"/>
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" title="Linux" alt="Linux"/>
 
 </div>
 
@@ -68,7 +92,7 @@ Currently building production-adjacent infrastructure tooling as a **Production 
 ---
 
 <!-- ══════════════════════════ PROJECTS ══════════════════════════ -->
-## <img src="https://img.shields.io/badge/-7B2D42?style=flat-square" width="12"/> Projects <!-- accent: wine -->
+## <img src="https://img.shields.io/badge/-B01E42?style=flat-square" width="12"/> Projects <!-- accent: red-wine -->
 
 <details open>
 <summary><b>🟣 Query</b> — AI-assisted study tool</summary>
@@ -208,7 +232,7 @@ An HTTP load balancer written in pure Go — round-robin routing, per-backend ci
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=saachi-surana&show_icons=true&count_private=true&hide_border=true&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd&bg_color=0d1117" alt="stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=saachi-surana&hide_border=true&background=0d1117&stroke=6d28d9&ring=a83a5b&fire=a83a5b&currStreakNum=ffffff&currStreakLabel=c4b5fd&sideNums=ffffff&sideLabels=c4b5fd&dates=8b8b8b" alt="streak"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=saachi-surana&hide_border=true&background=0d1117&stroke=6d28d9&ring=c0264a&fire=c0264a&currStreakNum=ffffff&currStreakLabel=c4b5fd&sideNums=ffffff&sideLabels=c4b5fd&dates=8b8b8b" alt="streak"/>
 
 <br/>
 
@@ -216,7 +240,7 @@ An HTTP load balancer written in pure Go — round-robin routing, per-backend ci
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saachi-surana&bg_color=0d1117&color=c4b5fd&line=a83a5b&point=a78bfa&area=true&area_color=7c3aed&hide_border=true" alt="activity graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saachi-surana&bg_color=0d1117&color=c4b5fd&line=c0264a&point=a78bfa&area=true&area_color=7c3aed&hide_border=true" alt="activity graph" width="100%"/>
 
 <br/>
 
@@ -228,7 +252,7 @@ An HTTP load balancer written in pure Go — round-robin routing, per-backend ci
 ---
 
 <!-- ══════════════════════════ CONNECT ══════════════════════════ -->
-## <img src="https://img.shields.io/badge/-6B1F3D?style=flat-square" width="12"/> Connect <!-- accent: wine -->
+## <img src="https://img.shields.io/badge/-B01E42?style=flat-square" width="12"/> Connect <!-- accent: red-wine -->
 
 <div align="center">
 
@@ -254,6 +278,6 @@ An HTTP load balancer written in pure Go — round-robin routing, per-backend ci
 
 <i>Always building something new (usually late at night. usually with too many browser tabs open.)</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:7c3aed,100:6b1f3d&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,40:7c3aed,72:a4315a,100:b81e44&height=150&section=footer" width="100%"/>
 
 </div>
