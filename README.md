@@ -260,7 +260,7 @@ An HTTP load balancer written in pure Go — round-robin routing, per-backend ci
 <!-- ══════════════════════════ FOOTER ══════════════════════════ -->
 <div align="center">
 
-<i>Always building something new — usually late at night, usually with too many browser tabs open.</i>
+<i>Always building something new (usually late at night. usually with too many browser tabs open.)</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,12&height=150&section=footer" width="100%"/>
 
