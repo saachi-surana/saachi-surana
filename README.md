@@ -131,7 +131,7 @@ Brain-signal (ECoG) classification using a 1D CNN.
 </details>
 
 <details>
-<summary><b>⭐ StellarNet</b> — stellar classification</summary>
+<summary><b>⭐ StellarSort</b> — stellar classification</summary>
 
 <br/>
 
@@ -139,7 +139,7 @@ A stellar classification model trained on roughly 100k datapoints.
 
 <img src="https://img.shields.io/badge/PyTorch-4F46E5?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-6D28D9?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
-🔗 `[FILL IN — repo link not provided yet]`
+🔗 [github.com/saachi-surana/UW-PHYS417](https://github.com/saachi-surana/UW-PHYS417/blob/main/Lab9_(Stellar_Classification).ipynb)
 
 </details>
 
