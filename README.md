@@ -35,50 +35,50 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" title="Python" alt="Python"/>
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" title="Java" alt="Java"/>
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" title="JavaScript" alt="JavaScript"/>
-<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" title="TypeScript" alt="TypeScript"/>
-<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" title="C++" alt="C++"/>
-<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" title="SQL" alt="SQL"/>
+![Python](https://skillicons.dev/icons?i=python "Python")
+![Java](https://skillicons.dev/icons?i=java "Java")
+![JavaScript](https://skillicons.dev/icons?i=js "JavaScript")
+![TypeScript](https://skillicons.dev/icons?i=ts "TypeScript")
+![C++](https://skillicons.dev/icons?i=cpp "C++")
+![SQL](https://skillicons.dev/icons?i=postgres "SQL")
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" title="React" alt="React"/>
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" title="Next.js" alt="Next.js"/>
-<img src="https://skillicons.dev/icons?i=htmx" width="48" height="48" title="HTMX" alt="HTMX"/>
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" title="Tailwind CSS" alt="Tailwind CSS"/>
+![React](https://skillicons.dev/icons?i=react "React")
+![Next.js](https://skillicons.dev/icons?i=nextjs "Next.js")
+![HTMX](https://skillicons.dev/icons?i=htmx "HTMX")
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind "Tailwind CSS")
 
 **Backend &amp; Databases**
 
-<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" title="FastAPI" alt="FastAPI"/>
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" title="Node.js" alt="Node.js"/>
-<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" title="PostgreSQL" alt="PostgreSQL"/>
-<img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" title="SQLite" alt="SQLite"/>
-<img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" title="Supabase" alt="Supabase"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy" width="48" height="48" title="SQLAlchemy" alt="SQLAlchemy"/>
+![FastAPI](https://skillicons.dev/icons?i=fastapi "FastAPI")
+![Node.js](https://skillicons.dev/icons?i=nodejs "Node.js")
+![PostgreSQL](https://skillicons.dev/icons?i=postgres "PostgreSQL")
+![SQLite](https://skillicons.dev/icons?i=sqlite "SQLite")
+![Supabase](https://skillicons.dev/icons?i=supabase "Supabase")
+![SQLAlchemy](https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy "SQLAlchemy")
 
 **AI / ML**
 
-<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" title="PyTorch" alt="PyTorch"/>
-<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" title="TensorFlow.js" alt="TensorFlow.js"/>
-<img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" title="scikit-learn" alt="scikit-learn"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" width="48" height="48" title="LangChain" alt="LangChain"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" width="48" height="48" title="Hugging Face" alt="Hugging Face"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ollama" width="48" height="48" title="Ollama" alt="Ollama"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" width="48" height="48" title="Gemini API" alt="Gemini API"/>
-<img src="https://raw.githubusercontent.com/saachi-surana/saachi-surana/main/.github/assets/chroma.svg" width="48" height="48" title="ChromaDB" alt="ChromaDB"/>
+![PyTorch](https://skillicons.dev/icons?i=pytorch "PyTorch")
+![TensorFlow.js](https://skillicons.dev/icons?i=tensorflow "TensorFlow.js")
+![scikit-learn](https://skillicons.dev/icons?i=sklearn "scikit-learn")
+![LangChain](https://go-skill-icons.vercel.app/api/icons?i=langchain "LangChain")
+![Hugging Face](https://go-skill-icons.vercel.app/api/icons?i=huggingface "Hugging Face")
+![Ollama](https://go-skill-icons.vercel.app/api/icons?i=ollama "Ollama")
+![Gemini API](https://go-skill-icons.vercel.app/api/icons?i=gemini "Gemini API")
+![ChromaDB](https://raw.githubusercontent.com/saachi-surana/saachi-surana/main/.github/assets/chroma.svg "ChromaDB")
 
 **Cloud, DevOps &amp; Tooling**
 
-<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" title="Kubernetes" alt="Kubernetes"/>
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" title="Docker" alt="Docker"/>
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" title="Git" alt="Git"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=argocd" width="48" height="48" title="Argo CD" alt="Argo CD"/>
-<img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" title="Grafana" alt="Grafana"/>
-<img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" title="PromQL (Prometheus)" alt="PromQL"/>
-<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" title="AWS" alt="AWS"/>
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" title="Linux" alt="Linux"/>
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes "Kubernetes")
+![Docker](https://skillicons.dev/icons?i=docker "Docker")
+![Git](https://skillicons.dev/icons?i=git "Git")
+![Argo CD](https://go-skill-icons.vercel.app/api/icons?i=argocd "Argo CD")
+![Grafana](https://skillicons.dev/icons?i=grafana "Grafana")
+![PromQL (Prometheus)](https://skillicons.dev/icons?i=prometheus "PromQL (Prometheus)")
+![AWS](https://skillicons.dev/icons?i=aws "AWS")
+![Linux](https://skillicons.dev/icons?i=linux "Linux")
 
 </div>
 
@@ -227,7 +227,7 @@ An HTTP load balancer written in pure Go — round-robin routing, per-backend ci
 ---
 
 <!-- ══════════════════════════ GITHUB ANALYTICS ══════════════════════════ -->
-## <img src="https://img.shields.io/badge/-8B5CF6?style=flat-square" width="12"/> GitHub Analytics <!-- accent: violet -->
+## <img src="https://img.shields.io/badge/-B01E42?style=flat-square" width="12"/> GitHub Analytics <!-- accent: red-wine -->
 
 <div align="center">
 
