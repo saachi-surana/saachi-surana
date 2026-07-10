@@ -106,7 +106,7 @@ Currently building production-adjacent infrastructure tooling as a **Production 
 ## <img src="https://img.shields.io/badge/-B01E42?style=flat-square" width="12"/> Projects <!-- accent: red-wine -->
 
 <details open>
-<summary><b>🟣 Query</b> — AI-assisted study tool</summary>
+<summary><b>Query</b> — AI-assisted study tool</summary>
 
 <br/>
 
@@ -114,12 +114,12 @@ An AI-assisted study tool, built with one other person, that turns your material
 
 <img src="https://img.shields.io/badge/Next.js-4F46E5?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-6D28D9?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-7C3AED?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-4F46E5?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini_API-6D28D9?style=flat-square&logo=googlegemini&logoColor=white"/>
 
-🔗 [github.com/saachi-surana/query](https://github.com/saachi-surana/query)
+[github.com/saachi-surana/query](https://github.com/saachi-surana/query)
 
 </details>
 
 <details>
-<summary><b>🏆 Bin Sentinel</b> — real-time detection + RAG</summary>
+<summary><b>Bin Sentinel</b> — real-time detection + RAG</summary>
 
 <br/>
 
@@ -127,12 +127,12 @@ Real-time object detection paired with a RAG pipeline, built with a small team. 
 
 <img src="https://img.shields.io/badge/TensorFlow.js-4F46E5?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/COCO--SSD-6D28D9?style=flat-square"/> <img src="https://img.shields.io/badge/ChromaDB-7C3AED?style=flat-square&logo=chromatic&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-4F46E5?style=flat-square&logo=langchain&logoColor=white"/>
 
-🔗 [github.com/abhay7dev/bin-sentinel](https://github.com/abhay7dev/bin-sentinel) <sub>(hosted on a teammate's account)</sub>
+[github.com/abhay7dev/bin-sentinel](https://github.com/abhay7dev/bin-sentinel) <sub>(hosted on a teammate's account)</sub>
 
 </details>
 
 <details>
-<summary><b>🟣 StudySync</b> — fully local study assistant</summary>
+<summary><b>StudySync</b> — fully local study assistant</summary>
 
 <br/>
 
@@ -140,12 +140,12 @@ A fully local, on-device study assistant — everything runs on your machine, no
 
 <img src="https://img.shields.io/badge/FastAPI-4F46E5?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/faster--Whisper-6D28D9?style=flat-square"/> <img src="https://img.shields.io/badge/Ollama-7C3AED?style=flat-square&logo=ollama&logoColor=white"/> <img src="https://img.shields.io/badge/ChromaDB-4F46E5?style=flat-square&logo=chromatic&logoColor=white"/>
 
-🔗 [github.com/saachi-surana/studysync](https://github.com/saachi-surana/studysync)
+[github.com/saachi-surana/studysync](https://github.com/saachi-surana/studysync)
 
 </details>
 
 <details>
-<summary><b>🧠 FlexNet</b> — brain-signal classification</summary>
+<summary><b>FlexNet</b> — brain-signal classification</summary>
 
 <br/>
 
@@ -153,12 +153,12 @@ Brain-signal (ECoG) classification using a 1D CNN.
 
 <img src="https://img.shields.io/badge/PyTorch-4F46E5?style=flat-square&logo=pytorch&logoColor=white"/>
 
-🔗 [github.com/saachi-surana/FlexNet](https://github.com/saachi-surana/FlexNet)
+[github.com/saachi-surana/FlexNet](https://github.com/saachi-surana/FlexNet)
 
 </details>
 
 <details>
-<summary><b>⭐ StellarSort</b> — stellar classification</summary>
+<summary><b>StellarSort</b> — stellar classification</summary>
 
 <br/>
 
@@ -166,12 +166,12 @@ A stellar classification model trained on roughly 100k datapoints.
 
 <img src="https://img.shields.io/badge/PyTorch-4F46E5?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-6D28D9?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
-🔗 [github.com/saachi-surana/UW-PHYS417](https://github.com/saachi-surana/UW-PHYS417/blob/main/Lab9_(Stellar_Classification).ipynb)
+[github.com/saachi-surana/UW-PHYS417](https://github.com/saachi-surana/UW-PHYS417/blob/main/Lab9_(Stellar_Classification).ipynb)
 
 </details>
 
 <details>
-<summary><b>📈 Path2Profit</b> — classification with SMOTE</summary>
+<summary><b>Path2Profit</b> — classification with SMOTE</summary>
 
 <br/>
 
@@ -179,12 +179,12 @@ A classification model built with SMOTE for class balancing and Gradient Boostin
 
 <img src="https://img.shields.io/badge/scikit--learn-4F46E5?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
-🔗 [github.com/saachi-surana/Path2Profit](https://github.com/saachi-surana/Path2Profit)
+[github.com/saachi-surana/Path2Profit](https://github.com/saachi-surana/Path2Profit)
 
 </details>
 
 <details>
-<summary><b>🗓️ Notion Planner</b> — Mac menu-bar app</summary>
+<summary><b>Notion Planner</b> — Mac menu-bar app</summary>
 
 <br/>
 
@@ -192,12 +192,12 @@ A Mac menu-bar app that unifies Notion, Google Calendar, and Spotify into one pl
 
 <img src="https://img.shields.io/badge/Python-4F46E5?style=flat-square&logo=python&logoColor=white"/>
 
-🔗 [github.com/saachi-surana/notion-planner](https://github.com/saachi-surana/notion-planner)
+[github.com/saachi-surana/notion-planner](https://github.com/saachi-surana/notion-planner)
 
 </details>
 
 <details>
-<summary><b>🤖 Jarvis</b> — fully local voice assistant</summary>
+<summary><b>Jarvis</b> — fully local voice assistant</summary>
 
 <br/>
 
@@ -205,12 +205,12 @@ A fully local voice assistant with an Iron Man–style HUD — handles calendar,
 
 <img src="https://img.shields.io/badge/Python-4F46E5?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Local_LLM-6D28D9?style=flat-square"/>
 
-🔗 [github.com/saachi-surana/Jarvis](https://github.com/saachi-surana/Jarvis)
+[github.com/saachi-surana/Jarvis](https://github.com/saachi-surana/Jarvis)
 
 </details>
 
 <details>
-<summary><b>🔗 Snip</b> — production-grade URL shortener</summary>
+<summary><b>Snip</b> — production-grade URL shortener</summary>
 
 <br/>
 
@@ -218,12 +218,12 @@ A production-grade URL shortener with click analytics, Redis-cached redirects, J
 
 <img src="https://img.shields.io/badge/Go_(Chi)-4F46E5?style=flat-square&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/React_(Vite)-6D28D9?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-7C3AED?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-4F46E5?style=flat-square&logo=redis&logoColor=white"/>
 
-🔗 [github.com/saachi-surana/snip](https://github.com/saachi-surana/snip)
+[github.com/saachi-surana/snip](https://github.com/saachi-surana/snip)
 
 </details>
 
 <details>
-<summary><b>🚦 TraffiCop</b> — HTTP load balancer in pure Go</summary>
+<summary><b>TraffiCop</b> — HTTP load balancer in pure Go</summary>
 
 <br/>
 
@@ -231,7 +231,7 @@ An HTTP load balancer written in pure Go — round-robin routing, per-backend ci
 
 <img src="https://img.shields.io/badge/Go-4F46E5?style=flat-square&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/Prometheus-6D28D9?style=flat-square&logo=prometheus&logoColor=white"/> <img src="https://img.shields.io/badge/Grafana-7C3AED?style=flat-square&logo=grafana&logoColor=white"/>
 
-🔗 [github.com/saachi-surana/trafficop](https://github.com/saachi-surana/trafficop)
+[github.com/saachi-surana/trafficop](https://github.com/saachi-surana/trafficop)
 
 </details>
 
