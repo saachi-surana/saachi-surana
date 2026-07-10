@@ -20,7 +20,7 @@
 <!-- ══════════════════════════ ABOUT ══════════════════════════ -->
 ## <img src="https://img.shields.io/badge/-8B5CF6?style=flat-square" width="12"/> About
 
-First-year **Computer Science + Data Science** student at the **University of Washington** (Class of 2028). Right now I'm interning on the **Production Engineering** team at **CoreWeave** and doing undergraduate research in UW's **BioRobotics Lab**. On the side, I founded **The Future Is Female (TFIF)**, a STEM nonprofit, and I'm an **Engineer in Residence at DubHacks Next**. I'm drawn to backend systems, applied ML, and full-stack builds — the kind of things that feel alive when you use them.
+**Computer Science + Data Science** student at the **University of Washington** (Class of 2028). Right now I'm interning on the **Production Engineering** team at **CoreWeave** and doing undergraduate research in UW's **BioRobotics Lab**. On the side, I founded **The Future Is Female (TFIF)**, a STEM nonprofit, and I'm building Query. I'm drawn to backend systems, applied ML, and full-stack builds. The kind of things that feel alive when you use them.
 
 > **Currently exploring:** RAG pipelines · on-device inference · systems design
 
