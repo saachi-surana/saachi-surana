@@ -106,13 +106,13 @@ Currently building production-adjacent infrastructure tooling as a **Production 
 ## <img src="https://img.shields.io/badge/-B01E42?style=flat-square" width="12"/> Projects <!-- accent: red-wine -->
 
 <details open>
-<summary><b>Query</b> — AI-assisted study tool</summary>
+<summary><b>Query</b> — live Q&A platform for presentations & webinars</summary>
 
 <br/>
 
-An AI-assisted study tool, built with one other person, that turns your material into an active study session.
+A live Q&A platform for presentations and webinars (think PollEv / Slido) — AI-powered question clustering via the Gemini API, real-time upvoting, and an analytics dashboard. Built with one other person.
 
-<img src="https://img.shields.io/badge/Next.js-4F46E5?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-6D28D9?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-7C3AED?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-4F46E5?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini_API-6D28D9?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-4F46E5?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-6D28D9?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-7C3AED?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-4F46E5?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini_API-6D28D9?style=flat-square&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/Playwright-7C3AED?style=flat-square&logo=playwright&logoColor=white"/>
 
 [github.com/saachi-surana/query](https://github.com/saachi-surana/query)
 
