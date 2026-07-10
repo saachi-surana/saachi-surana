@@ -67,7 +67,7 @@
 ![Hugging Face](https://go-skill-icons.vercel.app/api/icons?i=huggingface "Hugging Face")
 ![Ollama](https://go-skill-icons.vercel.app/api/icons?i=ollama "Ollama")
 ![Gemini API](https://go-skill-icons.vercel.app/api/icons?i=gemini "Gemini API")
-![ChromaDB](https://raw.githubusercontent.com/saachi-surana/saachi-surana/main/.github/assets/chroma.svg "ChromaDB")
+![ChromaDB](https://raw.githubusercontent.com/saachi-surana/saachi-surana/main/.github/assets/chroma.svg?v=2 "ChromaDB")
 
 **Cloud, DevOps &amp; Tooling**
 
