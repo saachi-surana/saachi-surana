@@ -40,6 +40,11 @@
 ![JavaScript](https://skillicons.dev/icons?i=js "JavaScript")
 ![TypeScript](https://skillicons.dev/icons?i=ts "TypeScript")
 ![C++](https://skillicons.dev/icons?i=cpp "C++")
+![Go](https://skillicons.dev/icons?i=go "Go")
+![x86 Assembly](https://go-skill-icons.vercel.app/api/icons?i=assembly "x86 Assembly")
+![Bash](https://skillicons.dev/icons?i=bash "Bash")
+![HTML](https://skillicons.dev/icons?i=html "HTML")
+![CSS](https://skillicons.dev/icons?i=css "CSS")
 ![SQL](https://skillicons.dev/icons?i=postgres "SQL")
 
 **Frontend**
@@ -57,17 +62,26 @@
 ![SQLite](https://skillicons.dev/icons?i=sqlite "SQLite")
 ![Supabase](https://skillicons.dev/icons?i=supabase "Supabase")
 ![SQLAlchemy](https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy "SQLAlchemy")
+![Jinja2](https://raw.githubusercontent.com/saachi-surana/saachi-surana/main/.github/assets/jinja.svg "Jinja2")
 
 **AI / ML**
 
 ![PyTorch](https://skillicons.dev/icons?i=pytorch "PyTorch")
 ![TensorFlow.js](https://skillicons.dev/icons?i=tensorflow "TensorFlow.js")
 ![scikit-learn](https://skillicons.dev/icons?i=sklearn "scikit-learn")
+![Pandas](https://go-skill-icons.vercel.app/api/icons?i=pandas "Pandas")
+![NumPy](https://go-skill-icons.vercel.app/api/icons?i=numpy "NumPy")
+![SciPy](https://go-skill-icons.vercel.app/api/icons?i=scipy "SciPy")
 ![LangChain](https://go-skill-icons.vercel.app/api/icons?i=langchain "LangChain")
-![Hugging Face](https://go-skill-icons.vercel.app/api/icons?i=huggingface "Hugging Face")
 ![Ollama](https://go-skill-icons.vercel.app/api/icons?i=ollama "Ollama")
 ![Gemini API](https://go-skill-icons.vercel.app/api/icons?i=gemini "Gemini API")
 ![ChromaDB](https://raw.githubusercontent.com/saachi-surana/saachi-surana/main/.github/assets/chroma.svg?v=2 "ChromaDB")
+
+**Observability &amp; Monitoring**
+
+![Prometheus / PromQL](https://skillicons.dev/icons?i=prometheus "Prometheus / PromQL")
+![Grafana](https://skillicons.dev/icons?i=grafana "Grafana")
+![Jira](https://go-skill-icons.vercel.app/api/icons?i=jira "Jira")
 
 **Cloud, DevOps &amp; Tooling**
 
@@ -75,9 +89,6 @@
 ![Docker](https://skillicons.dev/icons?i=docker "Docker")
 ![Git](https://skillicons.dev/icons?i=git "Git")
 ![Argo CD](https://go-skill-icons.vercel.app/api/icons?i=argocd "Argo CD")
-![Grafana](https://skillicons.dev/icons?i=grafana "Grafana")
-![PromQL (Prometheus)](https://skillicons.dev/icons?i=prometheus "PromQL (Prometheus)")
-![AWS](https://skillicons.dev/icons?i=aws "AWS")
 ![Linux](https://skillicons.dev/icons?i=linux "Linux")
 
 </div>
